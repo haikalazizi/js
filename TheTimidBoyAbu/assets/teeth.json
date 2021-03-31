@@ -1,0 +1,115 @@
+{
+  "frames": [
+    {
+      "filename": "teeth_4",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 181,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "teeth_2",
+      "frame": {
+        "x": 0,
+        "y": 262,
+        "w": 186,
+        "h": 259
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 259
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "teeth_3",
+      "frame": {
+        "x": 181,
+        "y": 0,
+        "w": 180,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "teeth_1",
+      "frame": {
+        "x": 0,
+        "y": 521,
+        "w": 191,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 191,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 191,
+        "h": 244
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.6",
+    "image": "teeth.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 361,
+      "h": 765
+    },
+    "scale": 1
+  }
+}

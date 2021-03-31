@@ -1,0 +1,240 @@
+{
+  "frames": [
+    {
+      "filename": "whip_1",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 510,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 510,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "whip_2",
+      "frame": {
+        "x": 0,
+        "y": 616,
+        "w": 477,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 477,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "whip_3",
+      "frame": {
+        "x": 0,
+        "y": 1232,
+        "w": 458,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 0,
+        "w": 458,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "whip_4",
+      "frame": {
+        "x": 458,
+        "y": 1232,
+        "w": 439,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 0,
+        "w": 439,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "whip_5",
+      "frame": {
+        "x": 477,
+        "y": 616,
+        "w": 413,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 0,
+        "w": 413,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "whip_6",
+      "frame": {
+        "x": 510,
+        "y": 0,
+        "w": 380,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 0,
+        "w": 380,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "whip_7",
+      "frame": {
+        "x": 897,
+        "y": 0,
+        "w": 348,
+        "h": 616
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 0,
+        "w": 348,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "whip_8",
+      "frame": {
+        "x": 1513,
+        "y": 0,
+        "w": 325,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 0,
+        "w": 325,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "whip_9",
+      "frame": {
+        "x": 890,
+        "y": 616,
+        "w": 310,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 0,
+        "w": 310,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 510,
+        "h": 616
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.6",
+    "image": "flower.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1838,
+      "h": 1848
+    },
+    "scale": 1
+  }
+}
