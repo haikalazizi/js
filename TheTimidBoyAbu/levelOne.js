@@ -108,7 +108,7 @@ class level1 extends Phaser.Scene {
 
         // this text will show the score
         this.bookText = this.add.text(750, 550, '0', {
-            fontSize: '50px Comic Sans',
+            fontSize: '50px Courier',
             fill: '#ffffff'
         });
     // fix the text to the camera

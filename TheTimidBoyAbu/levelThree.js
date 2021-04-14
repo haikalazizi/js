@@ -21,7 +21,7 @@ class level3 extends Phaser.Scene {
         this.load.atlas('teeth', 'assets/teeth.png', 'assets/teeth.json');
         this.load.image('book', 'assets/book.png');
         this.load.audio('paper', 'assets/paper.mp3');
-        this.load.audio('monkey_cry', 'assets/monkey_cry.mp3');
+        this.load.audio('chomp', 'assets/chomp.mp3');
         this.load.image('office_bg', 'assets/office_bg.png');
         this.load.image('office_fg', 'assets/office_fg.png');
         this.load.image('pencil', 'assets/pencil.png');
@@ -84,7 +84,7 @@ class level3 extends Phaser.Scene {
     
         ////create audio
     
-        this.monkey_crySnd=this.sound.add('monkey_cry');
+        this.chompSnd=this.sound.add('chomp');
         this.paperSnd=this.sound.add('paper');
     
         //////////////////
@@ -227,15 +227,15 @@ class level3 extends Phaser.Scene {
     
         // Default is 3 lives
         if ( this.pencilCount === 2) {
-            this.monkey_crySnd.play();
+            this.chompSnd.play();
             this.cameras.main.shake(100);
             this.pencil3.setVisible(false);
         } else if ( this.pencilCount === 1) {
-            this.monkey_crySnd.play();
+            this.chompSnd.play();
             this.cameras.main.shake(100);
             this.pencil2.setVisible(false);
         } else if ( this.pencilCount === 0) {
-            this.monkey_crySnd.play();
+            this.chompSnd.play();
             this.cameras.main.shake(500);
             this.pencil1.setVisible(false);
             this.isDead = true;
